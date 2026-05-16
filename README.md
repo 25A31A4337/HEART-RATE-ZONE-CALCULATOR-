@@ -1,4 +1,8 @@
-Heart Rate Zone Calculator
+## Heart Rate Zone Calculator
+
+---
+
+
 📌 Introduction
 
 Heart Rate Zone Calculator is a modern web-based healthcare and fitness monitoring application designed to calculate and analyze heart rate zones using user age and resting heart rate. The project provides ECG visualization, heartbeat effects, BPM monitoring, and an AI-style medical dashboard with an interactive user interface.
